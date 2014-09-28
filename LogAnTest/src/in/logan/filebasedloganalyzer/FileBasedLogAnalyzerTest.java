@@ -1,6 +1,7 @@
-package in.logan.loganalyzer;
+package in.logan.filebasedloganalyzer;
 
 import junit.framework.Assert;
+import in.logan.filebasedloganalyzer.FileBasedLogAnalyzer;
 import in.logan.loganalyzer.extensionmanager.ExtensionManager;
 
 import org.junit.Rule;

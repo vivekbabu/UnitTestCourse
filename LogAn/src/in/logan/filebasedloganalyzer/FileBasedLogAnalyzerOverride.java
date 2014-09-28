@@ -1,4 +1,4 @@
-package in.logan.loganalyzer;
+package in.logan.filebasedloganalyzer;
 
 import in.logan.loganalyzer.extensionmanager.ExtensionManager;
 import in.logan.loganalyzer.extensionmanagerfactory.ExtensionManagerFactory;

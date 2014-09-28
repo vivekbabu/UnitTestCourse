@@ -1,5 +1,6 @@
-package in.logan.loganalyzer;
+package in.logan.filebasedloganalyzer;
 
+import in.logan.filebasedloganalyzer.FileBasedLogAnalyzerOverride;
 import in.logan.loganalyzer.extensionmanager.ExtensionManager;
 
 import org.junit.Assert;
