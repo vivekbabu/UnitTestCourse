@@ -21,7 +21,7 @@ public class FileBasedLogAnalyzerOverride {
 		return result;
 	}
 
-	private ExtensionManager getExtensionManager() {
+	protected ExtensionManager getExtensionManager() {
 		return ExtensionManagerFactory.getFileExtensionManager();
 	}
 }
