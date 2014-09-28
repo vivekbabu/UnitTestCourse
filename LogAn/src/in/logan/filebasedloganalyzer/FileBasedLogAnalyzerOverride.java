@@ -1,7 +1,7 @@
 package in.logan.filebasedloganalyzer;
 
-import in.logan.loganalyzer.extensionmanager.ExtensionManager;
-import in.logan.loganalyzer.extensionmanagerfactory.ExtensionManagerFactory;
+import in.logan.filebasedloganalyzer.extensionmanager.ExtensionManager;
+import in.logan.filebasedloganalyzer.extensionmanagerfactory.ExtensionManagerFactory;
 
 public class FileBasedLogAnalyzerOverride {
 	

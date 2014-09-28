@@ -1,4 +1,4 @@
-package in.logan.loganalyzer.extensionmanager;
+package in.logan.filebasedloganalyzer.extensionmanager;
 
 public interface ExtensionManager {
 

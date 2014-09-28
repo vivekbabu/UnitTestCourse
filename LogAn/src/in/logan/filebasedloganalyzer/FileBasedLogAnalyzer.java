@@ -1,6 +1,6 @@
 package in.logan.filebasedloganalyzer;
 
-import in.logan.loganalyzer.extensionmanager.ExtensionManager;
+import in.logan.filebasedloganalyzer.extensionmanager.ExtensionManager;
 
 public class FileBasedLogAnalyzer {
 	private ExtensionManager extensionManager;

@@ -1,7 +1,7 @@
-package in.logan.loganalyzer.extensionmanagerfactory;
+package in.logan.filebasedloganalyzer.extensionmanagerfactory;
 
 import in.logan.filebasedloganalyzer.FileExtensionManager;
-import in.logan.loganalyzer.extensionmanager.ExtensionManager;
+import in.logan.filebasedloganalyzer.extensionmanager.ExtensionManager;
 
 public class ExtensionManagerFactory {
 
